@@ -1,4 +1,6 @@
 # Add main class to point to install class
-class tojod {
+class tojod (
+  String $install_name,
+){
   include tojod::install
 }

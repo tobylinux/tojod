@@ -1,2 +1,2 @@
 # Adding site file for node
-node rhel7 { include tojod }
+node 'rhel7', 'ubu' { include tojod }

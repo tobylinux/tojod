@@ -1,1 +1,3 @@
 tojod::install_name: 'tojod'
+tojod::config_paths: 
+  -  '/etc/tojo/tojod.conf'

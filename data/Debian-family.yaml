@@ -1,3 +1,5 @@
 ---
 tojod::install_name: 'tojodeb'
 tojod::config_paths: '/etc/tojo/tojod.conf'
+tojod::service_name: 'tojodeb'
+tojod::vhost_dir: '/etc/tojo/tojod.conf'

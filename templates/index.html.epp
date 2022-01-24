@@ -1,0 +1,8 @@
+<%- | $server_name,
+| -%>
+
+<html>
+  <head>
+    <title>Welsome to <%= $server_name %></title>
+
+rest of file here

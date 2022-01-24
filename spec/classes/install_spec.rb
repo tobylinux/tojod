@@ -7,7 +7,7 @@ describe 'tojod::install' do
     context "on #{os}" do
       let(:facts) { os_facts }
 
-      it { is_expected.to compile }
+      it { is_expected.not_to compile }
     end
   end
 end

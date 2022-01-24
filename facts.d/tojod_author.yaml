@@ -1,0 +1,9 @@
+---
+  tojod_author:
+    organization: tobylinux
+    address: 2378 Morningview
+    server: tojod
+    developer: tobylinux
+    os_family:
+      1: Debian
+      2: Red hat
